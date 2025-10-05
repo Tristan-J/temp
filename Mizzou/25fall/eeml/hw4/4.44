@@ -1,0 +1,40 @@
+
+Pinned packages:
+
+  - python=3.10
+
+
+Transaction
+
+  Prefix: C:\Users\ziyan\anaconda3\envs\eeml_proj
+
+  Updating specs:
+
+   - transformers
+   - accelerate
+   - huggingface_hub
+
+
+  Package       Version  Build         Channel          Size
+--------------------------------------------------------------
+  Install:
+--------------------------------------------------------------
+
+  + accelerate   1.10.1  pyhcf101f3_0  conda-forge     268kB
+
+  Summary:
+
+  Install: 1 packages
+
+  Total download: 268kB
+
+--------------------------------------------------------------
+
+
+Confirm changes: [Y/n] 
+Transaction starting
+Linking accelerate-1.10.1-pyhcf101f3_0
+
+Transaction finished
+
+Terminate batch job (Y/N)? 
